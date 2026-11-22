@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🚀 HirePath SaaS Platform
 > *"Your Career. Your Opportunities. Your Future."*
 
@@ -69,3 +70,7 @@ npm run dev
 # 3. Build for production
 npm run build
 ```
+=======
+# Hirepath
+HirePath is an AI-powered internship and placement management platform that connects students, recruiters, and placement officers. It simplifies opportunity discovery, eligibility checking, resume analysis, job recommendations, and application tracking.
+>>>>>>> origin/main
