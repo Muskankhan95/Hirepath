@@ -1,3 +1,8 @@
+- Developed & Maintained By: <Priya> and <Muskan Khan> <CSE 22> 
+- Full Stack Development Team
+- © 2026 ABESEC Ghaziabad. All Rights Reserved.
+
+
 <<<<<<< HEAD
 # 🚀 HirePath SaaS Platform
 > *"Your Career. Your Opportunities. Your Future."*
@@ -57,8 +62,8 @@ The application features a **1-Click Instant Persona Switcher** in both the Logi
 | **TPO Officer** | Dr. Arthur Vance | `tpo.director@university.edu` | `password123` | `tpo` |
 
 ---
-
-## 🚀 Getting Started
+## Render URL = https://hirepath-1-xr8o.onrender.com
+## 🚀 Getting Start 
 
 ```bash
 # 1. Install dependencies
