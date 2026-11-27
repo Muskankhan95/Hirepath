@@ -13,6 +13,7 @@ export default defineConfig({
   server: {
     port: 5173,
     host: true,
+    allowedHosts :['hirepath-1-xr8o.onrender.com']
   },
   build: {
     chunkSizeWarningLimit: 1200,
